@@ -4,4 +4,4 @@
 
 [Hosted Link 🚀](https://advisor-opal.vercel.app/)
 
-![Screenshot of Advisor](image-1.png)
+![Screenshot of Advisor](./public/image-1.png)
