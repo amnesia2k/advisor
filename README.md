@@ -2,4 +2,6 @@
 
 ### Made an app that generates advice from an external API on click of button.
 
-![Screenshot of the Application](image.png)
+[Hosted Link 🚀](https://advisor-opal.vercel.app/)
+
+![Screenshot of Advisor](image-1.png)
