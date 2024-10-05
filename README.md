@@ -4,4 +4,11 @@
 
 [Hosted Link 🚀](https://advisor-opal.vercel.app/)
 
-![Screenshot of Advisor](./public/image-1.png)
+### Desktop View
+![Screenshot of Advisor](./public/desktop.png)
+
+### Tablet View
+![Screenshot of Advisor](./public/tablet.png)
+
+### Mobile View
+![Screenshot of Advisor](./public/mobile.png)
