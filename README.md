@@ -6,7 +6,7 @@
 
 ### Desktop View
 
-![Screenshot of Advisor](./public/desktop.png)
+![Screenshot of Advisor](./public/desktop_.png)
 
 ### Tablet View
 
