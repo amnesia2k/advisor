@@ -1,8 +1,12 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 function Screen() {
   const [advice, setAdvice] = useState("");
   const [count, setCount] = useState(0);
+
+  useEffect(() => {
+    getAdvice();
+  }, []);
 
   async function getAdvice() {
     const res = await fetch("https://api.adviceslip.com/advice");
@@ -15,7 +19,7 @@ function Screen() {
       <h1>{advice}</h1>
       <button onClick={getAdvice}>Get Advice</button>
       <p>
-        You have seeked advice <strong>{count}</strong> times.🥳
+        You have received <strong>{count}</strong> advice today🥳
       </p>
     </div>
   );
